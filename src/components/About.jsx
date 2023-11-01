@@ -29,11 +29,16 @@ function About(){
        <div data-aos="fade-left"
      data-aos-easing="linear" className="text-wrap p-2 md:h-full font-mono pt-3"> 
      <p className="fonthtml flex ">{`<p>`}</p>
-     Hey there! I'm <span className="text-cyan-400">Shreyansh Jain</span>, a passionate web developer with experience in  <span className="text-cyan-400"> frontend </span> development, <span className="text-cyan-400"> backend</span> programming, <span className="text-cyan-400"> databases</span>, as well as <span className="text-cyan-400">AWS</span>. I love learning new things by diving into hands-on projects and pushing the boundaries of my skills.
-     I am passionate about creating user-friendly and scalable web applications that inspires.
+     🚀 Hey there! I'm <span className="text-cyan-400">Shreyansh </span>, a Passionate Creator and Tech Enthusiast. By day, I'm a <span className="text-cyan-400"> Code Wizard </span> sculpting innovative digital experiences. By night,  I'm a <span className="text-cyan-400"> Visionary mind </span> dreaming of a brighter, more connected world. With a brush of creativity, a dash of innovation, and a sprinkle of coffee, I bring ideas to life.
+     
      <br/>
      <br/>
-     Alongside coding, I have a strong affinity for paintings, which fuel my creativity. Currently pursuing B.Tech in CSE from <span className="text-cyan-400"> IIIT Jabalpur</span>, set to graduate in 2025.
+     As a <span className="text-cyan-400"> Full-Stack App Developer</span>, I'm not bound by boundaries. I breathe life into ideas, transforming them into seamless mobile apps for<span className="text-cyan-400">  Android </span>and <span className="text-cyan-400"> iOS</span>, whether it's native or cross-platform. With a knack for problem-solving, I bring functionality to the forefront, making user interactions as intuitive as they are breathtaking.
+     <br/>
+     <br/>
+     But I don't stop there. I speak the language of servers too! Crafting <span className="text-cyan-400"> REST APIs using NodeJS and ExpressJS</span>  is my secret superpower, connecting your apps to the world. Plus, I have a companion in the cloud - <span className="text-cyan-400"> AWS.</span> I'll catapult your creations to the digital stratosphere. Let's build the future, one line of code at a time. 
+     <br/>
+      Welcome to my world, where the extraordinary is an everyday occurrence! 
      <p className="fonthtml flex justify-end">{`</p>`}</p>
      <div id="skill" data-aos="fade-left"
      data-aos-easing="linear"
