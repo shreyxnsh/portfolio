@@ -16,13 +16,13 @@ const Project = () => {
         
          <Tilt>
           <div data-aos="fade-up-right" className="max-w-sm border font-mono overflow-hidden">
-  <img  className="w-full" src="https://user-images.githubusercontent.com/97738453/237886571-d9d6c585-e4c9-47ee-8c92-a2087a5c5c9b.png" alt="Sunset in the mountains"/>
+  <img  className="w-full" src="todo.png" alt="Sunset in the mountains"/>
   <div className="px-6 py-4">
   <div className="text-xl z-10 font-mono font-bold">03</div>
-    <div className="font-bold text-3xl mb-2">DELIGHT</div>
+    <div className="font-bold text-3xl mb-2">ToDo Backend</div>
   
    
-    <p className="z-10 font-mono opacity-75">Easy ordering healthy food and convenient, with real-time delivery tracking to ensure your meals arrive fresh and on time</p>
+    <p className="z-10 font-mono opacity-75">A NodeJS REST API project for beginners to get familiar with CRUD Operations using the standard ToDo List App example.</p>
            
   </div>
   <div className='flex gap-2 px-4 flex-wrap pb-4'>
@@ -30,45 +30,44 @@ const Project = () => {
   <svg className="w-2.5 h-2.5 mr-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
     <path d="M10 0a10 10 0 1 0 10 10A10.011 10.011 0 0 0 10 0Zm3.982 13.982a1 1 0 0 1-1.414 0l-3.274-3.274A1.012 1.012 0 0 1 9 10V6a1 1 0 0 1 2 0v3.586l2.982 2.982a1 1 0 0 1 0 1.414Z"/>
   </svg>
-  13-Nov-2022
+  24-Oct-2023
 </span>
-<span className="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">Fullstack</span>
-<span className="bg-purple-100 text-purple-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-purple-400 border border-purple-400">Inprogress</span>
+<span className="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">Backend</span>
+<span className="bg-purple-100 text-purple-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-purple-400 border border-purple-400">Completed</span>
 
   </div>
   <div className='flex gap-2 px-4 flex-wrap'>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-blue-200 text-blue-700 rounded-full">
   NodeJs</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-orange-200 text-orange-700 rounded-full">
-  Mongodb
+  Expressjs
   </div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-red-200 text-red-700 rounded-full">
-  StripeAPI</div>
+  MongoDB</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-purple-200 text-purple-700 rounded-full">
-  Socket.io</div>
+  bcrypt</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-green-200 text-green-700 rounded-full">
-  SCSS</div>
+  JWT</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-pink-200 text-pink-700 rounded-full">
-  Tailwind</div>
+  Postman</div>
   
 </div>
-  <div className="m-2 flex gap-2 w-1/2 items-center">
-           <a href="https://delight-uditi.onrender.com" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-transparent hover:animate-pulse border-2 w-full bg-white text-black font-bold hover:text-white">Live</button></a>
+  <div className="m-5 flex gap-2 w-1/2 items-center">
+           
         
-           <a href="https://github.com/warriorBunny013/Delight" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
+           <a href="https://github.com/warriorBunny013/INTERNBRAND" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
         
    </div>
              </div>
              </Tilt>
              <Tilt>
           <div data-aos="fade-up-left" className="max-w-sm border font-mono overflow-hidden">
-  <img className="w-full" src="https://user-images.githubusercontent.com/97738453/237698574-3982043c-595e-47e0-b398-78bab9b9612d.png" alt="Sunset in the mountains"/>
+  <img className="w-full" src="passport-auth.jpg" alt="Sunset in the mountains"/>
   <div className="px-6 py-4">
   <div className="text-xl z-10 font-mono font-bold">04</div>
-    <div className="font-bold text-3xl mb-2">TRAVELEASY</div>
+    <div className="font-bold text-3xl mb-2">passport-auth</div>
   
-   
-    <p className="z-10 font-mono opacity-75">Browse Hotels by places and Book hotels.Multipage website with user authentication.</p>
+    <p className="z-10 font-mono opacity-75">Implementation of passport library to restrict users from accessing an application from a particular organisation only.</p>
            
   </div>
   <div className='flex gap-2 px-4 flex-wrap pb-4 pt-5'>
@@ -76,9 +75,9 @@ const Project = () => {
   <svg className="w-2.5 h-2.5 mr-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
     <path d="M10 0a10 10 0 1 0 10 10A10.011 10.011 0 0 0 10 0Zm3.982 13.982a1 1 0 0 1-1.414 0l-3.274-3.274A1.012 1.012 0 0 1 9 10V6a1 1 0 0 1 2 0v3.586l2.982 2.982a1 1 0 0 1 0 1.414Z"/>
   </svg>
-  10-sept-2022
+  31-Oct-2023
 </span>
-<span className="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">Fullstack</span>
+<span className="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">Backend</span>
 <span className="bg-purple-100 text-green-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">Completed</span>
 
   </div>
@@ -86,23 +85,23 @@ const Project = () => {
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-cyan-200 text-cyan-700 rounded-full">
   Nodejs</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-blue-200 text-blue-700 rounded-full">
-  Nodemailer</div>
+  ExpressJS</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-orange-200 text-orange-700 rounded-full">
   Mongodb
   </div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-red-200 text-red-700 rounded-full">
-  Scss</div>
+  Passport</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-purple-200 text-purple-700 rounded-full">
-  Tailwind</div>
+  Google Strategy</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-green-200 text-green-700 rounded-full">
-  Google maps</div>
+  Nodemon</div>
 </div>
-  <div className="m-2 flex gap-2 w-1/2 items-center">
-           <a href="https://traveleasy-uditi.onrender.com" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-transparent hover:animate-pulse border-2 w-full bg-white text-black font-bold hover:text-white">Live</button></a>
+  <div className="m-5 flex gap-2 w-1/2 items-center">
+           
         
-           <a href="https://github.com/warriorBunny013/TravelEasy-Final" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
+           <a href="https://github.com/warriorBunny013/INTERNBRAND" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
         
-           </div>
+   </div>
              </div>
              </Tilt>
           </div>
@@ -116,13 +115,13 @@ const Project = () => {
         
          <Tilt>
           <div data-aos="fade-up-right" className="max-w-sm border font-mono overflow-hidden">
-  <img  className="w-full" src="internbrand.png" alt="Sunset in the mountains"/>
+  <img  className="w-full" src="aashayeinmockup.png" alt="Sunset in the mountains"/>
   <div className="px-6 py-4">
   <div className="text-xl z-10 font-mono font-bold">05</div>
-    <div className="font-bold text-3xl mb-2">INTERNBRAND</div>
+    <div className="font-bold text-3xl mb-2">Aashayein</div>
   
    
-    <p className="z-10 font-mono opacity-75">Students and professionals can view and filter postings of internships in their desired company.</p>
+    <p className="z-10 font-mono opacity-75">A Full-Stack Flutter application for people to book appointments in Rehabilition Centres across India.</p>
            
   </div>
   <div className='flex gap-2 px-4 flex-wrap pb-4'>
@@ -130,41 +129,46 @@ const Project = () => {
   <svg className="w-2.5 h-2.5 mr-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
     <path d="M10 0a10 10 0 1 0 10 10A10.011 10.011 0 0 0 10 0Zm3.982 13.982a1 1 0 0 1-1.414 0l-3.274-3.274A1.012 1.012 0 0 1 9 10V6a1 1 0 0 1 2 0v3.586l2.982 2.982a1 1 0 0 1 0 1.414Z"/>
   </svg>
-  13-june-2023
+  16-July-2023
 </span>
 <span className="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">Fullstack</span>
-<span className="bg-purple-100 text-purple-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-purple-400 border border-purple-400">Inprogress</span>
+<span className="bg-purple-100 text-purple-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-purple-400 border border-purple-400">Completed</span>
 
   </div>
   <div className='flex gap-2 px-4 flex-wrap'>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-blue-200 text-blue-700 rounded-full">
-  NodeJs</div>
+  Flutter</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-orange-200 text-orange-700 rounded-full">
-  Mongodb
+  Dart
   </div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-red-200 text-red-700 rounded-full">
-  ReactJs</div>
+ Firebase</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-pink-200 text-pink-700 rounded-full">
-  Tailwind</div>
+ Firestore</div>
+<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-pink-200 text-pink-700 rounded-full">
+ Cloud Functions</div>
+<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-pink-200 text-pink-700 rounded-full">
+ GetX</div>
   
 </div>
-  <div className="m-2 flex gap-2 w-1/2 items-center">
-           <a href="https://internbrand-uditi-frontend.onrender.com/" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-transparent hover:animate-pulse border-2 w-full bg-white text-black font-bold hover:text-white">Live</button></a>
+  <div className="m-5 flex gap-2 w-1/2 items-center">
+           
         
-           <a href="https://github.com/warriorBunny013/INTERNBRAND" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
+           <a href="https://github.com/shreyxnsh/Aashayein-RehabCentre" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
         
    </div>
              </div>
              </Tilt>
              <Tilt>
           <div data-aos="fade-up-left" className="max-w-sm border font-mono overflow-hidden">
-  <img className="w-full" src="skia.png" alt="Sunset in the mountains"/>
+  <img className="w-full" src="tiimimockup.png" alt="Sunset in the mountains"/>
   <div className="px-6 py-4">
   <div className="text-xl z-10 font-mono font-bold">06</div>
-    <div className="font-bold text-3xl mb-2">SKIA EVENTS</div>
+    <div className="font-bold text-3xl mb-2">Tiimi</div>
   
    
-    <p className="z-10 font-mono opacity-75">Host events like Hackathons or codeathons and edit details in real time.</p>
+    
+    <p className="z-10 font-mono opacity-75">Tiimi is a prototype clone of the very famous Tiimi - HR Management System application User Interface.</p>
            
   </div>
   <div className='flex gap-2 px-4 flex-wrap pb-4'>
@@ -175,25 +179,29 @@ const Project = () => {
   28-june-2023
 </span>
 <span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">Frontend</span>
-<span class="bg-purple-100 text-purple-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-purple-400 border border-purple-400">Inprogress</span>
+<span class="bg-purple-100 text-purple-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-purple-400 border border-purple-400">Completed</span>
 
   </div>
   <div className='flex gap-2 px-4 flex-wrap'>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-cyan-200 text-cyan-700 rounded-full">
-  Reactjs</div>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-blue-200 text-blue-700 rounded-full">
-  Redux</div>
+  <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-blue-200 text-blue-700 rounded-full">
+  Java</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-orange-200 text-orange-700 rounded-full">
-  Localstorage
+  Android
   </div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-red-200 text-red-700 rounded-full">
-  Tailwind</div>
+ Figma</div>
+<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-pink-200 text-pink-700 rounded-full">
+ Firebase</div>
+<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-pink-200 text-pink-700 rounded-full">
+ XML</div>
+<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-pink-200 text-pink-700 rounded-full">
+ Dribble</div>
 
 </div>
-  <div className="m-2 flex gap-2 w-1/2 items-center">
-           <a href="https://skia-uditi-das.onrender.com/" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-transparent hover:animate-pulse border-2 w-full bg-white text-black font-bold hover:text-white">Live</button></a>
+  <div className="m-5 flex gap-2 w-1/2 items-center">
+         
         
-           <a href="https://github.com/warriorBunny013/skia-reactjs" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
+           <a href="https://github.com/shreyxnsh/Tiimi" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
         
            </div>
              </div>
@@ -208,13 +216,13 @@ const Project = () => {
            {/* <span className="font-bold tracking-widest">FEATURED PROJECT</span> */}
          <Tilt>
           <div data-aos="fade-up-right" className="max-w-sm border font-mono overflow-hidden">
-  <img className="w-full" src="storedb.jpg" alt="Sunset in the mountains"/>
+  <img className="w-full" src="tokenomics.png" alt="Sunset in the mountains"/>
   <div className="px-6 py-4">
   <div className="text-xl z-10 font-mono font-bold">07</div>
-    <div className="font-bold text-3xl mb-2">CHATIFY</div>
+    <div className="font-bold text-3xl mb-2">ERC20 Tokenomics</div>
   
    
-    <p className="z-10 font-mono opacity-75">Group chating application that allows the users socialize without the need to authenticate their details</p>
+    <p className="z-10 font-mono opacity-75">A Solidity Smart Contracts project where I tried writing some contracts to define the tokenomics of a native project token. </p>
            
   </div>
   <div className='flex gap-2 px-4 flex-wrap pb-4 pt-5'>
@@ -222,41 +230,41 @@ const Project = () => {
   <svg className="w-2.5 h-2.5 mr-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
     <path d="M10 0a10 10 0 1 0 10 10A10.011 10.011 0 0 0 10 0Zm3.982 13.982a1 1 0 0 1-1.414 0l-3.274-3.274A1.012 1.012 0 0 1 9 10V6a1 1 0 0 1 2 0v3.586l2.982 2.982a1 1 0 0 1 0 1.414Z"/>
   </svg>
-  08-july-2022
+  08-Mar-2023
 </span>
-<span className="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">fullstack</span>
+<span className="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">Blockchain</span>
 <span className="bg-purple-100 text-green-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">Completed</span>
 
   </div>
   <div className='flex gap-2 px-4 flex-wrap'>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-blue-200 text-blue-700 rounded-full">
-  Nodejs</div>
+  Solidity</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-orange-200 text-orange-700 rounded-full">
-  expressjs
+  Blockchain
   </div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-red-200 text-red-700 rounded-full">
-  socket.io</div>
+  Remix</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-purple-200 text-purple-700 rounded-full">
-  EJS</div>
+  ERC20</div>
 
 </div>
-  <div className="m-2 flex gap-2 w-1/2 items-center">
-           <a href="https://chatify-app.onrender.com/" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-transparent hover:animate-pulse border-2 w-full bg-white text-black font-bold hover:text-white">Live</button></a>
+  <div className="m-5 flex gap-2 w-1/2 items-center">
+           
         
-           <a href="https://github.com/warriorBunny013/chat-app" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
+           <a href="https://github.com/shreyxnsh/tokenomics" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
         
-           </div>
+   </div>
              </div>
              </Tilt>
              <Tilt>
           <div data-aos="fade-up-left" className="max-w-sm border font-mono overflow-hidden">
-  <img className="w-full" src="student-db.png" alt="Sunset in the mountains"/>
+  <img className="w-full" src="musikwiki.png" alt="Sunset in the mountains"/>
   <div className="px-6 py-4">
   <div className="text-xl z-10 font-mono font-bold">08</div>
-    <div className="font-bold text-3xl mb-2">STORE DB</div>
+    <div className="font-bold text-3xl mb-2">MusicWiki</div>
   
    
-    <p className="z-10 font-mono opacity-75">A web application to authenticate admin users, store and export student database in form of .csv</p>
+    <p className="z-10 font-mono opacity-75">MusicWiki is an unofficial Last.fm app that contains information about different music genres, the albums, artists and tracks listed under the genre.</p>
            
   </div>
   <div className='flex gap-2 px-4 flex-wrap pb-4 '>
@@ -264,7 +272,7 @@ const Project = () => {
   <svg className="w-2.5 h-2.5 mr-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
     <path d="M10 0a10 10 0 1 0 10 10A10.011 10.011 0 0 0 10 0Zm3.982 13.982a1 1 0 0 1-1.414 0l-3.274-3.274A1.012 1.012 0 0 1 9 10V6a1 1 0 0 1 2 0v3.586l2.982 2.982a1 1 0 0 1 0 1.414Z"/>
   </svg>
-  10-march-2023
+  16-Feb-2023
 </span>
 <span className="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">Fullstack</span>
 <span className="bg-purple-100 text-green-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">Completed</span>
@@ -272,205 +280,29 @@ const Project = () => {
   </div>
   <div className='flex gap-2 px-4 flex-wrap'>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-blue-200 text-blue-700 rounded-full">
-  Nodejs</div>
+  Kotlin</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-orange-200 text-orange-700 rounded-full">
-  MYSQL
+  MVVM
   </div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-red-200 text-red-700 rounded-full">
-  JWT</div>
+  Android</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-purple-200 text-purple-700 rounded-full">
-  Reactjs</div>
+  XML</div>
 <div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-pink-200 text-pink-700 rounded-full">
-  Multer</div>
+  RoomDB</div>
 </div>
-  <div className="m-2 flex gap-2 w-1/2 items-center">
-           <a target="_blank" href="https://drive.google.com/file/d/10DY6If143hWy5W5pTN6-Q-dTm4D7cZGl/view?usp=sharing"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-transparent hover:animate-pulse border-2 w-full bg-white text-black font-bold hover:text-white">Live</button></a>
+  <div className="m-5 flex gap-2 w-1/2 items-center">
+           
         
-           <a target="_blank" href="http://github.com/warriorBunny013/StudentDB-DentalKart"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
+           <a href="https://github.com/shreyxnsh/MusicWiki-GG" target="_blank"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
         
-           </div>
+   </div>
              </div>
              </Tilt>
           </div>
         
        </div>      
         
-        <div className="md:pl-20 md:pr-20 pt-20 sm:pl-10 sm:pr-10 min-h-screen  ">   
-           <div className="flex justify-center flex-wrap gap-20">
-           {/* <span className="font-bold tracking-widest">FEATURED PROJECT</span> */}
-          <Tilt>
-          <div data-aos="fade-up-right" className="max-w-sm border font-mono overflow-hidden">
-  <img className="w-full" src="sportozo.png" alt="Sunset in the mountains"/>
-  <div className="px-6 py-4">
-  <div className="text-xl z-10 font-mono font-bold">09</div>
-    <div className="font-bold text-3xl mb-2">SPORTOZO</div>
-  
-   
-    <p className="z-10 font-mono opacity-75">where players can register for the upcomming tounaments, admin dashboard implimented.Made with PHP and MYSQL.Deployed only <span className='text-white'>frontend</span></p>
-           
-  </div>
-  <div className='flex gap-2 px-4 flex-wrap pb-4'>
-  <span className="bg-blue-100 text-blue-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">
-  <svg className="w-2.5 h-2.5 mr-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
-    <path d="M10 0a10 10 0 1 0 10 10A10.011 10.011 0 0 0 10 0Zm3.982 13.982a1 1 0 0 1-1.414 0l-3.274-3.274A1.012 1.012 0 0 1 9 10V6a1 1 0 0 1 2 0v3.586l2.982 2.982a1 1 0 0 1 0 1.414Z"/>
-  </svg>
-  10-oct-2022
-</span>
-<span className="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">Fullstack</span>
-<span className="bg-purple-100 text-green-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">completed</span>
-
-  </div>
-  <div className='flex gap-2 px-4 flex-wrap'>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-blue-200 text-blue-700 rounded-full">
-  Php</div>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-orange-200 text-orange-700 rounded-full">
-  Mysql
-  </div>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-red-200 text-red-700 rounded-full">
-  particlejs</div>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-purple-200 text-purple-700 rounded-full">
-  AOS</div>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-pink-200 text-pink-700 rounded-full">
-  ejs</div>
-
-</div>
-  <div className="m-2 flex gap-2 w-1/2 items-center">
-           <a target="_blank" href="https://sportozo-uditi.netlify.app/"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-transparent hover:animate-pulse border-2 w-full bg-white text-black font-bold hover:text-white">Live</button></a>
-        
-           <a target="_blank" href="https://github.com/warriorBunny013/PLAYERS-DBMS-PROJECT-1"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
-        
-           </div>
-             </div>
-             </Tilt>
-<Tilt>
-<div data-aos="fade-up-left" className="max-w-sm border font-mono overflow-hidden">
-  <img className="w-full" src="lookup.png" alt="Sunset in the mountains"/>
-  <div className="px-6 py-4">
-  <div className="text-xl z-10 font-mono font-bold">10</div>
-    <div className="font-bold text-3xl mb-2">LOOKUP</div>
-  
-   
-    <p className="z-10 font-mono opacity-75">A web application to store a reading wishlist in local with automatic image generation.</p>
-           
-  </div>
-  <div className='flex gap-2 px-4 flex-wrap pb-4 pt-5'>
-  <span className="bg-blue-100 text-blue-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">
-  <svg className="w-2.5 h-2.5 mr-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
-    <path d="M10 0a10 10 0 1 0 10 10A10.011 10.011 0 0 0 10 0Zm3.982 13.982a1 1 0 0 1-1.414 0l-3.274-3.274A1.012 1.012 0 0 1 9 10V6a1 1 0 0 1 2 0v3.586l2.982 2.982a1 1 0 0 1 0 1.414Z"/>
-  </svg>
-  09-march-2023
-</span>
-<span className="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">Frontend</span>
-<span className="bg-purple-100 text-green-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">completed</span>
-
-  </div>
-  <div className='flex px-4 gap-2 flex-wrap'>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-blue-200 text-blue-700 rounded-full">
-  React</div>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-orange-200 text-orange-700 rounded-full">
-  Local storage
-  </div>
-
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-yellow-200 text-yellow-700 rounded-full">
-  Material UI</div>
-</div>
-  <div className="m-2 flex gap-2 w-1/2 items-center">
-           <a target="_blank" href="https://lookup-uditidas.netlify.app"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-transparent hover:animate-pulse border-2 w-full bg-white text-black font-bold hover:text-white">Live</button></a>
-        
-           <a target="_blank" href="https://github.com/warriorBunny013/lookup"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
-        
-           </div>
-</div>
-</Tilt>
-          </div>
-        
-       </div>      
-        
-        
-       <div className="md:pl-20 md:pr-20 pt-20 sm:pl-10 sm:pr-10 min-h-screen  ">   
-           <div className="flex justify-center flex-wrap gap-20">
-           {/* <span className="font-bold tracking-widest">FEATURED PROJECT</span> */}
-          <Tilt>
-          <div data-aos="fade-up-right" className="max-w-sm border font-mono overflow-hidden">
-  <img className="w-full" src="multiply.png" alt="Sunset in the mountains"/>
-  <div className="px-6 py-4">
-  <div className="text-xl z-10 font-mono font-bold">11</div>
-    <div className="font-bold text-3xl mb-2">MULTIPLY</div>
-  
-   
-    <p className="z-10 font-mono opacity-75">A multi-utility app with auto-theme(light/dark) mode generation by tracking the time of the day,Flashcards,games,Tip calculator and many more.</p>
-           
-  </div>
-  <div className='flex gap-2 px-4 flex-wrap pb-4'>
-  <span className="bg-blue-100 text-blue-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">
-  <svg className="w-2.5 h-2.5 mr-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
-    <path d="M10 0a10 10 0 1 0 10 10A10.011 10.011 0 0 0 10 0Zm3.982 13.982a1 1 0 0 1-1.414 0l-3.274-3.274A1.012 1.012 0 0 1 9 10V6a1 1 0 0 1 2 0v3.586l2.982 2.982a1 1 0 0 1 0 1.414Z"/>
-  </svg>
-  02-aug-2022
-</span>
-<span className="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">Frontend</span>
-<span className="bg-purple-100 text-green-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">completed</span>
-
-  </div>
-  <div className='flex px-4 gap-2 flex-wrap'>
-
-
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-green-200 text-green-700 rounded-full">
-  Vanilla js</div>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-pink-200 text-pink-700 rounded-full">
-  API</div>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-yellow-200 text-yellow-700 rounded-full">
-  HTML/CSS</div>
-</div>
-  <div className="m-2 flex gap-2 w-1/2 items-center">
-           <a target="_blank" href="https://multiply-uditidas.netlify.app/"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-transparent hover:animate-pulse border-2 w-full bg-white text-black font-bold hover:text-white">Live</button></a>
-        
-           <a target="_blank" href="https://github.com/warriorBunny013/Multiply-multipurpose-website"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
-        
-           </div>
-             </div>
-             </Tilt>
-<Tilt>
-<div data-aos="fade-up-left" className="max-w-sm border font-mono overflow-hidden">
-  <img className="w-full" src="Communify.png" alt="Sunset in the mountains"/>
-  <div className="px-6 py-4">
-  <div className="text-xl z-10 font-mono font-bold">12</div>
-    <div className="font-bold text-3xl mb-2">COMMUNIFY</div>
-  
-   
-    <p className="z-10 font-mono opacity-75">where organisations can form groups and post job listings.It's literally a FB for jobs.</p>
-           
-  </div>
-  <div className='flex gap-2 px-4 flex-wrap pb-4'>
-  <span className="bg-blue-100 text-blue-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">
-  <svg className="w-2.5 h-2.5 mr-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
-    <path d="M10 0a10 10 0 1 0 10 10A10.011 10.011 0 0 0 10 0Zm3.982 13.982a1 1 0 0 1-1.414 0l-3.274-3.274A1.012 1.012 0 0 1 9 10V6a1 1 0 0 1 2 0v3.586l2.982 2.982a1 1 0 0 1 0 1.414Z"/>
-  </svg>
-  10-may-2023
-</span>
-<span className="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">Frontend</span>
-<span className="bg-purple-100 text-purple-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-purple-400 border border-purple-400">Inprogress</span>
-
-  </div>
-  <div className='flex gap-2 px-4 flex-wrap'>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-blue-200 text-blue-700 rounded-full">
-  React</div>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-red-200 text-red-700 rounded-full">
-  Responsiveness</div>
-<div className="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-pink-200 text-pink-700 rounded-full">
-  Bootstrap</div>
-</div>
-  <div className="m-2 flex gap-2 w-1/2 items-center">
-           <a target="_blank" href="https://frontend-uditi-das013.netlify.app/"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-transparent hover:animate-pulse border-2 w-full bg-white text-black font-bold hover:text-white">Live</button></a>
-        
-           <a target="_blank" href="https://github.com/warriorBunny013/frontend"><button className="cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 w-full">Github</button></a>
-        
-           </div>
-             </div>
-             </Tilt>
-          </div>
-        
-       </div>   
            </>
     );
 }
