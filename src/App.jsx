@@ -36,13 +36,14 @@ function App() {
            >
      <div className="flex md:p-10  sm:gap-10 ml-4 opacity-75 text-base px-10 tracking-widest font-mono font-bold">
           <div className="flex   gap-5 px-4">
-          <a href="https://www.linkedin.com/in/uditi-d-20573b200/">
-            <i className="fa-brands rotate-90 fa-linkedin fa-lg cursor-pointer hover:duration-700 hover:text-cyan-400"></i>
+        
+          <a href="https://www.linkedin.com/in/shreyxnsh/">
+            <i className="fa-brands rotate-90 fa-linkedin fa-2xl cursor-pointer hover:duration-700 hover:text-cyan-400"></i>
             </a>
-          <a href="https://github.com/warriorBunny013">
-            <i className="fa-brands rotate-90 fa-github fa-lg  cursor-pointer hover:duration-700 hover:text-cyan-400"></i>
+          <a href="https://github.com/shreyxnsh">
+            <i className="fa-brands rotate-90 fa-github fa-2xl  cursor-pointer hover:duration-700 hover:text-cyan-400"></i>
              </a>
-             <a href="https://www.instagram.com/artme_empire/"><i className="fa-brands rotate-90 fa-instagram fa-lg cursor-pointer hover:duration-700 hover:text-cyan-400"></i></a>
+             
           </div>
           {/* <div> */}
           <a href="#contact"><div className=" hover:line-through hover:animate-pulse cursor-pointer hover:duration-700 hover:text-cyan-400">Contact</div></a>
@@ -70,7 +71,7 @@ function App() {
     <Contact/>
     </div>
     </div>
-    <div className="font-mono absolute right-10 text-xs pb-10">Made with ❤️ by Uditi</div>
+    <div className="font-mono absolute right-10 text-xs pb-10">Made with ❤️ by Shreyansh</div>
     </>
    
   )

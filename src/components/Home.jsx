@@ -42,7 +42,7 @@ const Home = () => {
                 className="flex justify-between"
                 
               >
-                <a href="https://drive.google.com/file/d/18UghSztu0NbR8A6GKx4142zweIW0SEtd/view?usp=sharing" target="_blank"><button className=" cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 font-mono" >Resume</button> </a>
+                <a href="https://drive.google.com/file/d/1-zNjC8bRJAzefyxYpYLFrZV84CmQmY1u/view?usp=sharing" target="_blank"><button className=" cursor-pointer mt-5 px-3 py-1 hover:bg-cyan-400 hover:animate-pulse border-2 font-mono" >Resume</button> </a>
                 <p className="fonthtml flex ">{`</p>`}</p>
                 </motion.div>
 
@@ -50,12 +50,13 @@ const Home = () => {
            </div>
            <motion.div
            className='right-full z-20'
-           initial={{x:"100%",width:"100%"}}
-           animate={{x:"0%",width:"100%"}}
+           initial={{x:"100%",width:"50%"}}
+           animate={{x:"0%",width:"50%"}}
            transition={{delay:1,duration:2,ease:"easeInOut"}}
-           ><lottie-player src="https://assets10.lottiefiles.com/packages/lf20_l4ny0jjm.json"  background="transparent"  speed="1"  style={{maxWidth: "500px", maxHeight: "500px"}}  loop  autoplay></lottie-player></motion.div>
+           ><lottie-player src="https://lottie.host/a3155470-521a-4529-8b57-ecc96a391749/7HqeN3Q8CX.json"  background="transparent"  speed="1"  style={{maxWidth: "500px", maxHeight: "500px"}}  loop  autoplay></lottie-player></motion.div>
           </div>
            
+          {/* https://assets10.lottiefiles.com/packages/lf20_l4ny0jjm.json */}
           
            {/* <ComputersCanvas /> */}
            </div>
