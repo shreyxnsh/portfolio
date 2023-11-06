@@ -6,6 +6,7 @@ import Project from "./components/Project.jsx"
 import About from "./components/About.jsx"
 import Contact from "./components/Contact.jsx"
 import AnimatedCursor from "react-animated-cursor"
+import { Analytics } from '@vercel/analytics/react';
 // import { BrowserRouter,Routes,Route } from "react-router-dom"
 import React from "react";
 import { motion } from "framer-motion";
@@ -57,6 +58,7 @@ function App() {
      <div className="w-screen relative z-0">
      <Home/>
      <StarsCanvas/>
+     <Analytics />
      </div>
      <div id="about">
      <About/>
